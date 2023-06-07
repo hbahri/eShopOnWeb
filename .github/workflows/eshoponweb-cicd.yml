@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-az400-eshoponweb-githubsction
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
-  SUBSCRIPTION-ID: 42573a42-c3d1-48ea-a1ff-fb21e66ec560
+  SUBSCRIPTION-ID: /subscriptions/42573a42-c3d1-48ea-a1ff-fb21e66ec560
   WEBAPP-NAME: tst-githhubsvaction-cicd
 
 
